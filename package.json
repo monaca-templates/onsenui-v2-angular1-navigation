@@ -1,6 +1,6 @@
 {
     "name": "onsenui-v2-angular1-navigation",
-    "version": "2.2.0",
+    "version": "2.4.0",
     "cordova": {
         "plugins": {
             "monaca-plugin-monaca-core": {},
